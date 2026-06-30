@@ -2,7 +2,7 @@
 
 A responsive personal portfolio built with React, showcasing my projects, skills, education, and resume.
 
-🔗 **Live Demo:** [https://tiny-macaron-cda701.netlify.app/](https://tiny-macaron-cda701.netlify.app/)
+🔗 **Live Demo:** [https://aesha-portfolio-website.netlify.app/](https://aesha-portfolio-website.netlify.app/)
 🔗 **GitHub Repo:** [https://github.com/AeshaDave/react-portfolio](https://github.com/AeshaDave/react-portfolio)
 
 ---
