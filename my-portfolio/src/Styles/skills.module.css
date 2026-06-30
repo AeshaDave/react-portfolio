@@ -1,0 +1,10 @@
+.skills { display: grid; grid-template-columns: 1fr 2fr; gap: 48px; }
+.heading { font-size: 32px; font-weight: 800; height: fit-content; }
+.group { margin-bottom: 32px; }
+.groupLabel { color: var(--text-gray); font-size: 14px; margin-bottom: 12px; }
+.pills { display: flex; flex-wrap: wrap; gap: 12px; }
+.pill { border: 1px solid var(--border); padding: 8px 16px; border-radius: 999px; font-size: 14px; font-weight: 500; }
+
+@media (max-width: 768px) {
+  .skills { grid-template-columns: 1fr; }
+}

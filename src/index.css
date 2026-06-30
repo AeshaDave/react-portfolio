@@ -1,0 +1,40 @@
+:root {
+  --primary: #f97316;
+  --primary-dark: #ea580c;
+  --text-dark: #111827;
+  --text-gray: #6b7280;
+  --bg-light: #f9fafb;
+  --border: #e5e7eb;
+  --max-width: 1200px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Segoe UI', Roboto, sans-serif;
+  color: var(--text-dark);
+  background: #fff;
+  line-height: 1.6;
+}
+
+a { text-decoration: none; color: inherit; }
+ul { list-style: none; }
+img { max-width: 100%; display: block; }
+
+.section {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 80px 24px;
+}
+
+@media (max-width: 768px) {
+  .section { padding: 56px 20px; }
+}
