@@ -60,7 +60,7 @@ my-portfolio/
 ## Getting Started
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/AeshaDave/react-portfolio>
 cd my-portfolio
 npm install
 npm run dev
