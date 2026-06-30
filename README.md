@@ -117,8 +117,6 @@ The iframe's `src="/resume.pdf"` pointed to a file that didn't exist yet in `pub
 
 ## Screenshots
 
-> Add screenshots of your deployed site here. In your actual GitHub repo, create an `/screenshots` folder, drop your images in, and reference them like this:
-
 ```markdown
 ![Homepage](./screenshots/home.png)
 ![About Section](./screenshots/about.png)
